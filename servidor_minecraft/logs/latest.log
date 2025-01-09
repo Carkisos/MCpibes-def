@@ -31,3 +31,9 @@
 [02:42:13] [Server thread/INFO]: <--[HERE]
 [02:43:23] [Server thread/INFO]: BrisaDoll[/127.92.241.236:47937] logged in with entity id 13 at (-8.5, 69.0, -5.5)
 [02:43:23] [Server thread/INFO]: BrisaDoll joined the game
+[02:48:12] [Server thread/INFO]: BrisaDoll has made the advancement [Stone Age]
+[02:48:44] [Server thread/INFO]: BrisaDoll has made the advancement [Sweet Dreams]
+[02:49:51] [Server thread/INFO]: BrisaDoll has made the advancement [Getting an Upgrade]
+[02:54:52] [Server thread/INFO]: Made BrisaDoll a server operator
+[02:56:14] [Server thread/INFO]: [BrisaDoll: Gamerule playersSleepingPercentage is now set to: 10]
+[02:57:34] [Server thread/INFO]: [BrisaDoll: Teleported BrisaDoll to 1000000.500000, 100.000000, 100000.500000]

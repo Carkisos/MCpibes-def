@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "50fb1336-8fae-3b8b-9053-961bb8d88b16",
+    "name": "BrisaDoll",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
