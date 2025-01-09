@@ -44,3 +44,8 @@
 [08:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
 [08:07:45] [Server thread/INFO]: BrisaDoll lost connection: Disconnected
 [08:07:45] [Server thread/INFO]: BrisaDoll left the game
+[09:32:21] [User Authenticator #1/INFO]: UUID of player Kaiser_Ego is 058be5ee-25e3-30fe-90b8-c01bd4fd3878
+[09:32:25] [Server thread/INFO]: Kaiser_Ego joined the game
+[09:32:25] [Server thread/INFO]: Kaiser_Ego[/127.243.109.72:56497] logged in with entity id 908 at ([world]1345.322224364806, 63.0, -1980.1636391681232)
+[09:32:38] [Server thread/INFO]: Kaiser_Ego lost connection: Disconnected
+[09:32:38] [Server thread/INFO]: Kaiser_Ego left the game
