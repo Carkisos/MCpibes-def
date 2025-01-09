@@ -1642,51 +1642,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-01-09 04:38:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-01-09 05:23:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-09 04:21:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_raw_copper": "2025-01-09 04:58:11 +0000"
+      "has_log": "2025-01-09 04:21:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_flint": "2025-01-09 05:23:11 +0000"
+      "has_wheat": "2025-01-09 04:35:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_potato": "2025-01-09 04:36:10 +0000"
+      "has_wheat": "2025-01-09 04:35:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_raw_copper": "2025-01-09 04:58:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-09 04:38:38 +0000"
+      "wheat": "2025-01-09 04:35:28 +0000"
     },
     "done": true
   },
@@ -1696,21 +1678,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
+      "has_bone_meal": "2025-01-09 04:35:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_redstone": "2025-01-09 05:24:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-01-09 05:24:38 +0000"
+      "has_potato": "2025-01-09 04:36:10 +0000"
     },
     "done": true
   },
@@ -1726,15 +1702,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-09 04:38:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
-      "has_redstone": "2025-01-09 05:24:38 +0000"
+      "has_planks": "2025-01-09 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-09 04:38:38 +0000"
     },
     "done": true
   },
@@ -1756,102 +1738,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-01-09 05:30:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-01-09 05:24:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-01-09 05:36:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-09 05:14:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-09 04:21:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-01-09 05:30:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-01-09 04:35:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-01-09 06:00:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-01-09 04:35:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-01-09 05:28:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-01-09 05:24:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-01-09 04:35:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-01-09 05:24:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-01-09 04:38:38 +0000"
@@ -1864,33 +1750,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-09 05:36:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-09 04:38:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_moss_block": "2025-01-09 05:36:49 +0000"
+      "has_raw_copper": "2025-01-09 04:58:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_redstone": "2025-01-09 05:24:38 +0000"
+      "has_raw_copper": "2025-01-09 04:58:11 +0000"
     },
     "done": true
   },
@@ -1900,9 +1774,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-09 05:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-09 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-09 05:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-09 05:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-09 05:30:23 +0000"
     },
     "done": true
   },
@@ -1912,9 +1882,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "has_bone_meal": "2025-01-09 04:35:40 +0000"
+      "has_clay_ball": "2025-01-09 05:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-09 05:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-09 05:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-09 05:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-09 05:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-01-09 06:00:11 +0000"
     },
     "done": true
   },
