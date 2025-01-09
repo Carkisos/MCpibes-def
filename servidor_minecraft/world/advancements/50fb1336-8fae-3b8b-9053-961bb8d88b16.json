@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-01-09 04:56:13 +0000",
       "minecraft:flower_forest": "2025-01-09 03:26:04 +0000",
       "minecraft:beach": "2025-01-09 03:19:12 +0000",
       "minecraft:forest": "2025-01-09 03:08:48 +0000",
@@ -14,11 +15,13 @@
       "minecraft:mangrove_swamp": "2025-01-09 03:02:56 +0000",
       "minecraft:river": "2025-01-09 02:47:35 +0000",
       "minecraft:lukewarm_ocean": "2025-01-09 02:57:36 +0000",
+      "minecraft:stony_shore": "2025-01-09 04:57:48 +0000",
       "minecraft:lush_caves": "2025-01-09 04:09:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-09 02:58:10 +0000",
       "minecraft:desert": "2025-01-09 02:43:24 +0000",
       "minecraft:ocean": "2025-01-09 02:58:01 +0000",
       "minecraft:sunflower_plains": "2025-01-09 03:26:14 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-09 04:55:49 +0000",
       "minecraft:savanna": "2025-01-09 02:44:37 +0000",
       "minecraft:windswept_savanna": "2025-01-09 03:09:01 +0000",
       "minecraft:plains": "2025-01-09 03:18:41 +0000"
@@ -1645,15 +1648,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-09 05:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-09 04:21:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-09 04:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-09 05:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-01-09 04:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-09 04:58:11 +0000"
     },
     "done": true
   },
@@ -1666,6 +1693,18 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-01-09 04:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
     },
     "done": true
   },
@@ -1687,6 +1726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-09 04:38:38 +0000"
@@ -1702,6 +1747,18 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-09 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-09 05:14:27 +0000"
     },
     "done": true
   },
@@ -1723,9 +1780,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-01-09 04:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
     },
     "done": true
   },
@@ -1744,6 +1813,24 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-09 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-09 04:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-09 05:24:38 +0000"
     },
     "done": true
   },
