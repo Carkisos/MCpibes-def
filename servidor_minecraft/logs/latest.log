@@ -159,3 +159,26 @@
 [02:27:16] [Async Chat Thread - #4/INFO]: [Not Secure] <BrisaDoll> ban
 [02:27:21] [Async Chat Thread - #4/INFO]: [Not Secure] <juansel2070> de un templo
 [02:27:28] [Server thread/INFO]: BrisaDoll has made the advancement [Getting an Upgrade]
+[02:29:49] [User Authenticator #4/INFO]: UUID of player Kaiser_Ego is 058be5ee-25e3-30fe-90b8-c01bd4fd3878
+[02:29:56] [Server thread/INFO]: Kaiser_Ego joined the game
+[02:29:56] [Server thread/INFO]: Kaiser_Ego[/127.243.109.72:52659] logged in with entity id 7439 at ([world]9.5, 90.0, -9.5)
+[02:30:07] [Async Chat Thread - #6/INFO]: [Not Secure] <Kaiser_Ego> holi
+[02:30:10] [Async Chat Thread - #6/INFO]: [Not Secure] <juansel2070> epa
+[02:30:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Kaiser_Ego> donde andan?
+[02:30:55] [Server thread/INFO]: juansel2070 has made the advancement [Acquire Hardware]
+[02:31:01] [Async Chat Thread - #6/INFO]: [Not Secure] <juansel2070> en una aldea
+[02:31:05] [Async Chat Thread - #6/INFO]: [Not Secure] <juansel2070> pero es del desierto
+[02:31:50] [Server thread/INFO]: BrisaDoll issued server command: /gamerule playersSleepingPercentage 10
+[02:31:50] [Server thread/INFO]: [BrisaDoll: Gamerule playersSleepingPercentage is now set to: 10]
+[02:32:00] [Async Chat Thread - #6/INFO]: [Not Secure] <Kaiser_Ego> busquen una aldea
+[02:32:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Kaiser_Ego> ya vuelvo
+[02:32:03] [Server thread/INFO]: Kaiser_Ego lost connection: Disconnected
+[02:32:03] [Server thread/INFO]: Kaiser_Ego left the game
+[02:32:17] [Server thread/INFO]: BrisaDoll issued server command: /scoreboard objectives add vida health
+[02:32:17] [Server thread/INFO]: [BrisaDoll: Created new objective [vida]]
+[02:32:30] [Server thread/INFO]: BrisaDoll issued server command: /scoreboard objectives setdisplay list vida
+[02:32:30] [Server thread/INFO]: [BrisaDoll: Set display slot list to show objective vida]
+[02:33:39] [Server thread/INFO]: BrisaDoll has made the advancement [Sweet Dreams]
+[02:37:09] [Server thread/INFO]: juansel2070 has made the advancement [Not Today, Thank You]
+[02:37:10] [Server thread/INFO]: juansel2070 has made the advancement [Monster Hunter]
+[02:37:24] [Server thread/INFO]: BrisaDoll has made the advancement [Acquire Hardware]
