@@ -300,3 +300,6 @@ hola<--[HERE]
 [21:44:50] [Server thread/INFO]: BrisaDoll left the game
 [21:45:17] [Server thread/INFO]: Villager Villager['Armorer'/26715, uuid='19a21735-7db2-4669-8654-2ce47b7587a8', l='ServerLevel[world]', x=1981.92, y=63.00, z=-1657.50, cpos=[123, -104], tl=53363, v=true] died, message: 'Armorer was slain by juansel2070 using [La Taladora]'
 [21:51:27] [Server thread/INFO]: juansel2070 has made the advancement [Hot Stuff]
+[21:57:48] [User Authenticator #8/INFO]: UUID of player BrisaDoll is 50fb1336-8fae-3b8b-9053-961bb8d88b16
+[21:57:49] [Server thread/INFO]: BrisaDoll joined the game
+[21:57:49] [Server thread/INFO]: BrisaDoll[/127.92.241.236:48447] logged in with entity id 36122 at ([world]1971.1690092187505, 66.0, -1708.9348634949101)
