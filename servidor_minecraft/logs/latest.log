@@ -250,3 +250,35 @@ hola<--[HERE]
 [21:30:56] [Async Chat Thread - #20/INFO]: [Not Secure] <juansel2070> eso contador
 [21:31:00] [Async Chat Thread - #20/INFO]: [Not Secure] <BrisaDoll> tantos como antes
 [21:31:35] [Async Chat Thread - #20/INFO]: [Not Secure] <BrisaDoll> un horas jugadas
+[21:32:56] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> no me acuerdo que video use para la granja de xp
+[21:33:17] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> ahi lo encontre
+[21:33:19] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> listo
+[21:33:53] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> juanse
+[21:33:57] [Async Chat Thread - #22/INFO]: [Not Secure] <juansel2070> q
+[21:33:58] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> mando los materiales al wspp
+[21:34:01] [Async Chat Thread - #22/INFO]: [Not Secure] <juansel2070> ko
+[21:34:13] [Server thread/INFO]: BrisaDoll issued server command: /scoreboard objectives add Muertes deathCount "Muertes"
+[21:34:13] [Server thread/INFO]: [BrisaDoll: Created new objective [Muertes]]
+[21:34:21] [Server thread/INFO]: BrisaDoll issued server command: /scoreboard objectives setdisplay sidebar Muertes
+[21:34:21] [Server thread/INFO]: [BrisaDoll: Set display slot sidebar to show objective Muertes]
+[21:34:25] [Async Chat Thread - #22/INFO]: [Not Secure] <BrisaDoll> mueran
+[21:34:31] [Async Chat Thread - #22/INFO]: [Not Secure] <juansel2070> no pienso morir
+[21:34:36] [Server thread/INFO]: BrisaDoll issued server command: /kill
+[21:34:36] [Server thread/INFO]: BrisaDoll was killed
+[21:34:36] [Server thread/INFO]: [BrisaDoll: Killed BrisaDoll]
+[21:34:39] [Async Chat Thread - #22/INFO]: [Not Secure] <juansel2070> xd
+[21:34:43] [Server thread/INFO]: BrisaDoll issued server command: /back
+[21:34:45] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> god
+[21:34:47] [Async Chat Thread - #22/INFO]: [Not Secure] <BrisaDoll> mi primer muerte
+[21:34:52] [Async Chat Thread - #22/INFO]: [Not Secure] <juansel2070> nacho = 98
+[21:35:16] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> nacho sin ayuda de juanse = 550
+[21:36:14] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> lo que consigas ponelo aca juanse
+[21:37:03] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> che joa ahora pongo mi cuenta de lo de minecraft
+[21:37:05] [Async Chat Thread - #22/INFO]: [Not Secure] <Kaiser_Ego> asi ya me queda
+[21:38:21] [Async Chat Thread - #24/INFO]: [Not Secure] <BrisaDoll> es muy lentoesto
+[21:38:26] [Async Chat Thread - #24/INFO]: [Not Secure] <BrisaDoll> hagan la granja de bamboo
+[21:40:17] [Async Chat Thread - #26/INFO]: [Not Secure] <Kaiser_Ego> joa
+[21:40:24] [Server thread/INFO]: juansel2070 issued server command: /tpa BrisaDoll
+[21:40:24] [Async Chat Thread - #26/INFO]: [Not Secure] <Kaiser_Ego> te tiene que llegar el codigo padre
+[21:40:42] [Server thread/INFO]: juansel2070 issued server command: /tpa Kaiser_Ego
+[21:40:45] [Server thread/INFO]: Kaiser_Ego issued server command: /tpaccept
