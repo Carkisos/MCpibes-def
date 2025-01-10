@@ -303,3 +303,7 @@ hola<--[HERE]
 [21:57:48] [User Authenticator #8/INFO]: UUID of player BrisaDoll is 50fb1336-8fae-3b8b-9053-961bb8d88b16
 [21:57:49] [Server thread/INFO]: BrisaDoll joined the game
 [21:57:49] [Server thread/INFO]: BrisaDoll[/127.92.241.236:48447] logged in with entity id 36122 at ([world]1971.1690092187505, 66.0, -1708.9348634949101)
+[22:03:45] [Server thread/INFO]: BrisaDoll lost connection: Disconnected
+[22:03:45] [Server thread/INFO]: BrisaDoll left the game
+[22:08:37] [Server thread/INFO]: Villager Villager['Weaponsmith'/77, uuid='34618073-ef22-423b-a624-da0b63b2cdff', l='ServerLevel[world]', x=1921.02, y=63.19, z=-1663.63, cpos=[120, -104], tl=523274, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[22:08:40] [Server thread/INFO]: Villager Villager['Villager'/23, uuid='e1daa342-22fe-4b9a-91b3-25a8aa6e257f', l='ServerLevel[world]', x=1920.97, y=63.19, z=-1662.83, cpos=[120, -104], tl=277182, v=true] died, message: 'Villager was slain by Zombie'
