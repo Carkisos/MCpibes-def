@@ -1,51 +1,82 @@
-[08:03:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[08:03:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[08:03:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[08:03:09] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[08:03:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:03:13] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[08:03:13] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[08:03:15] [ServerMain/INFO]: Loaded 1290 recipes
-[08:03:15] [ServerMain/INFO]: Loaded 1399 advancements
-[08:03:16] [Server thread/INFO]: Starting minecraft server version 1.21
-[08:03:16] [Server thread/INFO]: Loading properties
-[08:03:16] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[08:03:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[08:03:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:03:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:03:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[08:03:18] [Server thread/INFO]: Default game type: SURVIVAL
-[08:03:18] [Server thread/INFO]: Generating keypair
-[08:03:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:03:18] [Server thread/INFO]: Using epoll channel type
-[08:03:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[08:03:18] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[08:03:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:03:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:03:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:03:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:03:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:03:18] [Server thread/INFO]: Preparing level "world"
-[08:03:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:03:31] [Server thread/INFO]: Time elapsed: 12388 ms
-[08:03:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:03:31] [Server thread/INFO]: Time elapsed: 85 ms
-[08:03:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:03:31] [Server thread/INFO]: Time elapsed: 51 ms
-[08:03:31] [Server thread/INFO]: [spark] Starting background profiler...
-[08:03:31] [Server thread/INFO]: Done preparing level "world" (13.254s)
-[08:03:31] [Server thread/INFO]: Running delayed init tasks
-[08:03:31] [Server thread/INFO]: Done (23.436s)! For help, type "help"
-[08:03:31] [Server thread/INFO]: Timings Reset
-[08:04:27] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[08:04:57] [User Authenticator #0/INFO]: UUID of player BrisaDoll is 50fb1336-8fae-3b8b-9053-961bb8d88b16
-[08:04:59] [Server thread/INFO]: BrisaDoll joined the game
-[08:04:59] [Server thread/INFO]: BrisaDoll[/127.92.241.236:56303] logged in with entity id 19 at ([world]1338.8148457749373, 63.0, -1988.3453642449922)
-[08:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
-[08:07:45] [Server thread/INFO]: BrisaDoll lost connection: Disconnected
-[08:07:45] [Server thread/INFO]: BrisaDoll left the game
-[09:32:21] [User Authenticator #1/INFO]: UUID of player Kaiser_Ego is 058be5ee-25e3-30fe-90b8-c01bd4fd3878
-[09:32:25] [Server thread/INFO]: Kaiser_Ego joined the game
-[09:32:25] [Server thread/INFO]: Kaiser_Ego[/127.243.109.72:56497] logged in with entity id 908 at ([world]1345.322224364806, 63.0, -1980.1636391681232)
-[09:32:38] [Server thread/INFO]: Kaiser_Ego lost connection: Disconnected
-[09:32:38] [Server thread/INFO]: Kaiser_Ego left the game
+[01:58:56] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[01:58:56] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[01:58:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:58:56] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SimpleTpa.jar'...
+[01:58:56] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[01:58:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SimpleTpa.jar' in 816ms.
+[01:58:58] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2168ms.
+[01:58:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[01:58:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - SimpleTpa (7.4), SkinsRestorer (15.5.1)
+[01:59:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:59:03] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[01:59:03] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[01:59:04] [ServerMain/INFO]: No existing world data, creating new world
+[01:59:04] [ServerMain/INFO]: Loaded 1290 recipes
+[01:59:04] [ServerMain/INFO]: Loaded 1399 advancements
+[01:59:05] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:59:05] [Server thread/INFO]: Loading properties
+[01:59:05] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[01:59:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:59:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:59:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:59:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:59:07] [Server thread/INFO]: Default game type: SURVIVAL
+[01:59:07] [Server thread/INFO]: Generating keypair
+[01:59:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:59:07] [Server thread/INFO]: Using epoll channel type
+[01:59:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:59:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:59:07] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[01:59:07] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[01:59:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:59:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[01:59:08] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[01:59:09] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[01:59:10] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:59:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:59:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:59:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:59:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:59:10] [Server thread/INFO]: Preparing level "world"
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:59:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:59:31] [Server thread/INFO]: Time elapsed: 6430 ms
+[01:59:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:59:33] [Server thread/INFO]: Time elapsed: 2460 ms
+[01:59:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:59:34] [Server thread/INFO]: Time elapsed: 634 ms
+[01:59:34] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[01:59:34] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:59:34] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[01:59:34] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[01:59:34] [Server thread/INFO]: [spark] Starting background profiler...
+[01:59:35] [Server thread/INFO]: Done preparing level "world" (24.256s)
+[01:59:35] [Server thread/INFO]: Running delayed init tasks
+[01:59:35] [Server thread/INFO]: Done (39.792s)! For help, type "help"
+[01:59:35] [Server thread/INFO]: Timings Reset
+[01:59:39] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[02:02:10] [User Authenticator #0/INFO]: UUID of player BrisaDoll is 50fb1336-8fae-3b8b-9053-961bb8d88b16
+[02:02:12] [Server thread/INFO]: BrisaDoll joined the game
+[02:02:12] [Server thread/INFO]: BrisaDoll[/127.92.241.236:43395] logged in with entity id 31 at ([world]-1.5, 96.0, 5.5)
+[02:02:40] [Server thread/INFO]: Made BrisaDoll a server operator
+[02:02:44] [Server thread/INFO]: BrisaDoll issued server command: /gamemode creative
+[02:02:44] [Server thread/INFO]: [BrisaDoll: Set own game mode to Creative Mode]
+[02:06:23] [Server thread/INFO]: BrisaDoll issued server command: /gamemode spectator
+[02:06:23] [Server thread/INFO]: [BrisaDoll: Set own game mode to Spectator Mode]
+[02:07:30] [Server thread/INFO]: BrisaDoll issued server command: /gamemode creative
+[02:07:30] [Server thread/INFO]: [BrisaDoll: Set own game mode to Creative Mode]
+[02:07:34] [Server thread/INFO]: BrisaDoll issued server command: /gamemode spectator
+[02:07:34] [Server thread/INFO]: [BrisaDoll: Set own game mode to Spectator Mode]
