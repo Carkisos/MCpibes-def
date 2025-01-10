@@ -104,3 +104,13 @@
 [20:44:03] [Server thread/INFO]: BrisaDoll[/127.92.241.236:55813] logged in with entity id 24467 at ([world]1971.9264227356741, 66.0, -1713.699999988079)
 [20:45:24] [Server thread/INFO]: BrisaDoll issued server command: /give BrisaDoll minecraft:iron_axe
 [20:45:24] [Server thread/INFO]: [BrisaDoll: Gave 1 [Iron Axe] to BrisaDoll]
+[20:52:57] [Server thread/INFO]: BrisaDoll lost connection: Disconnected
+[20:52:57] [Server thread/INFO]: BrisaDoll left the game
+[20:53:07] [User Authenticator #3/INFO]: UUID of player BrisaDoll is 50fb1336-8fae-3b8b-9053-961bb8d88b16
+[20:53:08] [Server thread/INFO]: BrisaDoll joined the game
+[20:53:08] [Server thread/INFO]: BrisaDoll[/127.92.241.236:60447] logged in with entity id 25420 at ([world]1975.5646534858392, 66.0, -1714.699999988079)
+[20:59:54] [User Authenticator #4/INFO]: UUID of player Kaiser_Ego is 058be5ee-25e3-30fe-90b8-c01bd4fd3878
+[21:00:03] [Server thread/INFO]: Kaiser_Ego joined the game
+[21:00:03] [Server thread/INFO]: Kaiser_Ego[/127.243.109.72:53619] logged in with entity id 26495 at ([world]1948.0244002781012, -60.0, -1786.699999988079)
+[21:01:02] [Server thread/INFO]: Kaiser_Ego lost connection: Disconnected
+[21:01:02] [Server thread/INFO]: Kaiser_Ego left the game
