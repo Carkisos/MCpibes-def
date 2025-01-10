@@ -1140,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-10 19:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-10 19:40:11 +0000"
@@ -1149,12 +1155,6 @@
   "minecraft:recipes/decorations/bamboo_mosaic": {
     "criteria": {
       "has_bamboo_slab": "2025-01-10 19:40:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-01-10 19:19:35 +0000"
     },
     "done": true
   },

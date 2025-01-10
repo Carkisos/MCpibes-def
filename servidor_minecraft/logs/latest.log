@@ -99,3 +99,8 @@
 [20:26:18] [Server thread/INFO]: juansel2070 left the game
 [20:36:58] [Server thread/INFO]: BrisaDoll lost connection: Disconnected
 [20:36:58] [Server thread/INFO]: BrisaDoll left the game
+[20:44:02] [User Authenticator #2/INFO]: UUID of player BrisaDoll is 50fb1336-8fae-3b8b-9053-961bb8d88b16
+[20:44:03] [Server thread/INFO]: BrisaDoll joined the game
+[20:44:03] [Server thread/INFO]: BrisaDoll[/127.92.241.236:55813] logged in with entity id 24467 at ([world]1971.9264227356741, 66.0, -1713.699999988079)
+[20:45:24] [Server thread/INFO]: BrisaDoll issued server command: /give BrisaDoll minecraft:iron_axe
+[20:45:24] [Server thread/INFO]: [BrisaDoll: Gave 1 [Iron Axe] to BrisaDoll]
