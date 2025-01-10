@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-01-10 03:53:45 +0000",
       "minecraft:beach": "2025-01-10 02:07:23 +0000",
       "minecraft:forest": "2025-01-10 02:07:47 +0000",
       "minecraft:sparse_jungle": "2025-01-10 02:07:21 +0000",
@@ -434,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-10 03:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-10 02:35:12 +0000"
@@ -497,6 +504,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 02:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-10 03:56:39 +0000"
     },
     "done": true
   },
@@ -611,6 +624,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-10 02:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-10 03:56:30 +0000"
     },
     "done": true
   },
@@ -914,6 +933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-10 03:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-10 02:35:18 +0000"
@@ -923,6 +948,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-10 03:38:03 +0000",
+      "cooked_beef": "2025-01-10 03:52:03 +0000",
       "melon_slice": "2025-01-10 02:30:42 +0000"
     },
     "done": false
@@ -936,6 +962,12 @@
   "minecraft:recipes/building_blocks/bamboo_stairs": {
     "criteria": {
       "has_planks": "2025-01-10 02:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-10 03:56:34 +0000"
     },
     "done": true
   },
