@@ -112,3 +112,50 @@
 [02:18:55] [User Authenticator #2/INFO]: UUID of player juansel2070 is efc2a99a-9749-3b90-bc4c-4f99a61f9cf9
 [02:18:57] [Server thread/INFO]: juansel2070 joined the game
 [02:18:57] [Server thread/INFO]: juansel2070[/127.67.207.73:55807] logged in with entity id 4582 at ([world]-4.024025753811845, 62.0, 8.300000011920929)
+[02:20:06] [Server thread/INFO]: There are 1 of a max of 20 players online: juansel2070
+[02:20:12] [User Authenticator #3/INFO]: UUID of player BrisaDoll is 50fb1336-8fae-3b8b-9053-961bb8d88b16
+[02:20:14] [Server thread/INFO]: BrisaDoll joined the game
+[02:20:14] [Server thread/INFO]: BrisaDoll[/127.92.241.236:47063] logged in with entity id 4756 at ([world]18.175065865008747, 96.0, 2.758308075467141)
+[02:20:51] [Server thread/INFO]: juansel2070 lost connection: Disconnected
+[02:20:51] [Server thread/INFO]: juansel2070 left the game
+[02:20:54] [User Authenticator #3/INFO]: UUID of player juansel2070 is efc2a99a-9749-3b90-bc4c-4f99a61f9cf9
+[02:20:56] [Server thread/INFO]: juansel2070 joined the game
+[02:20:56] [Server thread/INFO]: juansel2070[/127.67.207.73:59255] logged in with entity id 4886 at ([world]-4.707542838390799, 55.0, 3.3199555195589823)
+[02:21:07] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> no me deja romper mnada
+[02:21:12] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> yo si puedo
+[02:21:23] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> sera lag?
+[02:21:28] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> osea tuyo
+[02:21:35] [Server thread/INFO]: BrisaDoll issued server command: /gamemode survival juansel2070
+[02:21:39] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> no creo
+[02:21:44] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> veo los mobs moverse
+[02:21:59] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> te hago tp ?
+[02:22:03] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> para probar nomas
+[02:22:05] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> ok
+[02:22:12] [Server thread/INFO]: BrisaDoll issued server command: /tp juansel2070 BrisaDoll
+[02:22:12] [Server thread/INFO]: [BrisaDoll: Teleported juansel2070 to BrisaDoll]
+[02:22:29] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> te mato
+[02:22:33] [Server thread/INFO]: BrisaDoll issued server command: /kill juansel2070
+[02:22:33] [Server thread/INFO]: juansel2070 was killed
+[02:22:33] [Server thread/INFO]: [BrisaDoll: Killed juansel2070]
+[02:22:33] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> ok
+[02:22:51] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> nose porq
+[02:23:11] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> reinicio sino
+[02:23:36] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> porque hace un ratito si pude a volver a picarr
+[02:23:48] [Server thread/INFO]: BrisaDoll issued server command: /time set day
+[02:23:48] [Server thread/INFO]: [BrisaDoll: Set the time to 1000]
+[02:24:00] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> ahora busco
+[02:24:44] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> ahi esta
+[02:24:47] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> ahora puedo
+[02:25:07] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> aaaaa
+[02:25:08] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> ahora no
+[02:25:12] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> es la proteccion del spawn
+[02:25:16] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> aahhahahha
+[02:25:18] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> andate y listo
+[02:26:06] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> hay aldea aca cerca
+[02:26:09] [Async Chat Thread - #2/INFO]: [Not Secure] <juansel2070> en el desierto
+[02:26:15] [Async Chat Thread - #2/INFO]: [Not Secure] <BrisaDoll> casi joya
+[02:26:20] [Server thread/INFO]: BrisaDoll has made the advancement [Stone Age]
+[02:27:06] [Server thread/INFO]: juansel2070 has made the advancement [Diamonds!]
+[02:27:16] [Async Chat Thread - #4/INFO]: [Not Secure] <BrisaDoll> ban
+[02:27:21] [Async Chat Thread - #4/INFO]: [Not Secure] <juansel2070> de un templo
+[02:27:28] [Server thread/INFO]: BrisaDoll has made the advancement [Getting an Upgrade]
