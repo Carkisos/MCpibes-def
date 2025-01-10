@@ -22,6 +22,7 @@
       "minecraft:desert": "2025-01-10 02:16:18 +0000",
       "minecraft:ocean": "2025-01-10 02:41:35 +0000",
       "minecraft:cherry_grove": "2025-01-10 06:15:38 +0000",
+      "minecraft:sunflower_plains": "2025-01-10 06:34:48 +0000",
       "minecraft:savanna": "2025-01-10 03:14:59 +0000",
       "minecraft:wooded_badlands": "2025-01-10 02:12:13 +0000",
       "minecraft:bamboo_jungle": "2025-01-10 02:15:36 +0000",
@@ -540,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-01-10 06:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-10 05:56:09 +0000"
@@ -645,6 +652,12 @@
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-01-10 04:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-10 06:35:11 +0000"
     },
     "done": true
   },
@@ -765,6 +778,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 02:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-01-10 06:35:11 +0000"
     },
     "done": true
   },
@@ -1008,6 +1027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-10 06:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-10 02:27:03 +0000"
@@ -1083,6 +1108,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-10 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-01-10 06:35:11 +0000"
     },
     "done": true
   },
@@ -1185,6 +1216,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-10 02:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-10 06:35:11 +0000"
     },
     "done": true
   },
@@ -1525,6 +1562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-10 06:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 02:30:55 +0000"
@@ -1540,6 +1583,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-10 04:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-01-10 06:35:11 +0000"
     },
     "done": true
   },
@@ -1759,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-10 06:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2025-01-10 03:09:15 +0000"
@@ -1955,6 +2010,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-01-10 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-01-10 06:35:11 +0000"
     },
     "done": true
   },
