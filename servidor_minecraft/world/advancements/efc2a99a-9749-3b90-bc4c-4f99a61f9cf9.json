@@ -17,9 +17,11 @@
       "minecraft:lukewarm_ocean": "2025-01-10 02:34:24 +0000",
       "minecraft:stony_shore": "2025-01-10 02:33:14 +0000",
       "minecraft:lush_caves": "2025-01-10 02:18:34 +0000",
+      "minecraft:dripstone_caves": "2025-01-10 06:20:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-10 02:44:19 +0000",
       "minecraft:desert": "2025-01-10 02:16:18 +0000",
       "minecraft:ocean": "2025-01-10 02:41:35 +0000",
+      "minecraft:cherry_grove": "2025-01-10 06:15:38 +0000",
       "minecraft:savanna": "2025-01-10 03:14:59 +0000",
       "minecraft:wooded_badlands": "2025-01-10 02:12:13 +0000",
       "minecraft:bamboo_jungle": "2025-01-10 02:15:36 +0000",
@@ -424,6 +426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-10 06:11:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 02:30:55 +0000"
@@ -721,6 +729,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-10 03:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-10 06:19:48 +0000"
     },
     "done": true
   },
@@ -1454,6 +1468,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-10 02:37:28 +0000",
       "minecraft:enderman": "2025-01-10 05:09:14 +0000",
+      "minecraft:silverfish": "2025-01-10 06:20:30 +0000",
       "minecraft:spider": "2025-01-10 04:53:03 +0000",
       "minecraft:zombie": "2025-01-10 02:37:10 +0000",
       "minecraft:creeper": "2025-01-10 04:11:37 +0000",
@@ -1501,6 +1516,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-10 04:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-10 06:16:54 +0000"
     },
     "done": true
   },
@@ -1934,6 +1955,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-10 04:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 06:16:54 +0000"
     },
     "done": true
   },
