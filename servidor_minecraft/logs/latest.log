@@ -80,3 +80,35 @@
 [02:07:30] [Server thread/INFO]: [BrisaDoll: Set own game mode to Creative Mode]
 [02:07:34] [Server thread/INFO]: BrisaDoll issued server command: /gamemode spectator
 [02:07:34] [Server thread/INFO]: [BrisaDoll: Set own game mode to Spectator Mode]
+[02:10:51] [Server thread/INFO]: BrisaDoll lost connection: Disconnected
+[02:10:51] [Server thread/INFO]: BrisaDoll left the game
+[02:12:09] [User Authenticator #1/INFO]: UUID of player juansel2070 is efc2a99a-9749-3b90-bc4c-4f99a61f9cf9
+[02:12:12] [Server thread/INFO]: juansel2070 joined the game
+[02:12:12] [Server thread/INFO]: juansel2070[/127.67.207.73:45891] logged in with entity id 3299 at ([world]1.5, 96.0, 2.5)
+[02:13:00] [User Authenticator #1/INFO]: UUID of player BrisaDoll is 50fb1336-8fae-3b8b-9053-961bb8d88b16
+[02:13:01] [Server thread/INFO]: BrisaDoll joined the game
+[02:13:01] [Server thread/INFO]: BrisaDoll[/127.92.241.236:48311] logged in with entity id 3422 at ([world]1405.979955225728, 122.7889584614869, -268.7304491151794)
+[02:13:07] [Server thread/INFO]: BrisaDoll issued server command: /gamemode creative
+[02:13:07] [Server thread/INFO]: [BrisaDoll: Set own game mode to Creative Mode]
+[02:13:17] [Server thread/INFO]: BrisaDoll issued server command: /tpa juansel2070
+[02:13:21] [Server thread/INFO]: juansel2070 issued server command: /tpaccept
+[02:13:28] [Async Chat Thread - #1/INFO]: [Not Secure] <juansel2070> holaa
+[02:13:29] [Server thread/INFO]: BrisaDoll issued server command: /gamemode survival
+[02:13:29] [Server thread/INFO]: [BrisaDoll: Set own game mode to Survival Mode]
+[02:13:34] [Async Chat Thread - #1/INFO]: [Not Secure] <BrisaDoll> hola
+[02:13:38] [Async Chat Thread - #1/INFO]: [Not Secure] <juansel2070> me veo mi skinn vamooo
+[02:13:40] [Server thread/INFO]: BrisaDoll issued server command: /time set day
+[02:13:40] [Server thread/INFO]: [BrisaDoll: Set the time to 1000]
+[02:13:49] [Async Chat Thread - #1/INFO]: [Not Secure] <juansel2070> vos sos una miku brasilera ??
+[02:13:53] [Async Chat Thread - #1/INFO]: [Not Secure] <BrisaDoll> si
+[02:13:56] [Async Chat Thread - #1/INFO]: [Not Secure] <juansel2070> jasjs
+[02:14:07] [Async Chat Thread - #1/INFO]: [Not Secure] <BrisaDoll> lo cambio mi hermana
+[02:14:25] [Server thread/INFO]: BrisaDoll lost connection: Disconnected
+[02:14:25] [Server thread/INFO]: BrisaDoll left the game
+[02:17:29] [Server thread/INFO]: juansel2070 has made the advancement [Stone Age]
+[02:17:52] [Server thread/INFO]: juansel2070 has made the advancement [Getting an Upgrade]
+[02:18:52] [Server thread/INFO]: juansel2070 lost connection: Disconnected
+[02:18:52] [Server thread/INFO]: juansel2070 left the game
+[02:18:55] [User Authenticator #2/INFO]: UUID of player juansel2070 is efc2a99a-9749-3b90-bc4c-4f99a61f9cf9
+[02:18:57] [Server thread/INFO]: juansel2070 joined the game
+[02:18:57] [Server thread/INFO]: juansel2070[/127.67.207.73:55807] logged in with entity id 4582 at ([world]-4.024025753811845, 62.0, 8.300000011920929)
