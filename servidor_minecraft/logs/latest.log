@@ -114,3 +114,23 @@
 [21:00:03] [Server thread/INFO]: Kaiser_Ego[/127.243.109.72:53619] logged in with entity id 26495 at ([world]1948.0244002781012, -60.0, -1786.699999988079)
 [21:01:02] [Server thread/INFO]: Kaiser_Ego lost connection: Disconnected
 [21:01:02] [Server thread/INFO]: Kaiser_Ego left the game
+[21:04:44] [Server thread/INFO]: BrisaDoll issued server command: /give BrisaDoll minecraft:iron_shovel
+[21:04:44] [Server thread/INFO]: [BrisaDoll: Gave 1 [Iron Shovel] to BrisaDoll]
+[21:05:42] [User Authenticator #5/INFO]: UUID of player Kaiser_Ego is 058be5ee-25e3-30fe-90b8-c01bd4fd3878
+[21:05:46] [Server thread/INFO]: Kaiser_Ego joined the game
+[21:05:46] [Server thread/INFO]: Kaiser_Ego[/127.243.109.72:43499] logged in with entity id 28766 at ([world]1948.0244002781012, -60.0, -1786.699999988079)
+[21:07:47] [Server thread/INFO]: Kaiser_Ego lost connection: Disconnected
+[21:07:47] [Server thread/INFO]: Kaiser_Ego left the game
+[21:10:05] [User Authenticator #6/INFO]: UUID of player Kaiser_Ego is 058be5ee-25e3-30fe-90b8-c01bd4fd3878
+[21:10:09] [Server thread/INFO]: Kaiser_Ego joined the game
+[21:10:09] [Server thread/INFO]: Kaiser_Ego[/127.243.109.72:55871] logged in with entity id 29333 at ([world]1948.0244002781012, -60.0, -1786.699999988079)
+[21:10:24] [Async Chat Thread - #10/INFO]: [Not Secure] <Kaiser_Ego> holi canelone
+[21:10:38] [Async Chat Thread - #10/INFO]: [Not Secure] <BrisaDoll> hola
+[21:10:40] [Server thread/INFO]: Kaiser_Ego issued server command: /tpa BrisaDoll
+[21:10:43] [Server thread/INFO]: BrisaDoll issued server command: /tpaccept
+[21:11:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+hola pecadores<--[HERE]
+[21:12:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Kaiser_Ego> ta linda la casa
+[21:12:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Kaiser_Ego> que va a durar hasta que empecemos con lo tecnico
+[21:12:17] [Async Chat Thread - #12/INFO]: [Not Secure] <BrisaDoll> tal cual
+[21:12:22] [Async Chat Thread - #12/INFO]: [Not Secure] <BrisaDoll> si
