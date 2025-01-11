@@ -315,3 +315,12 @@
 [04:41:48] [Server thread/INFO]: juansel2070 issued server command: /tpa Kaiser_Ego
 [04:41:51] [Server thread/INFO]: Kaiser_Ego issued server command: /tpaccept
 [04:44:49] [Async Chat Thread - #128/INFO]: [Not Secure] <juansel2070> 1943, -1703
+[04:49:55] [Server thread/WARN]: Kaiser_Ego moved too quickly! -1.3257800773367308,-14.298630691039563,-2.3405403871790895
+[04:52:15] [Server thread/INFO]: Kaiser_Ego fell from a high place
+[04:53:56] [Server thread/INFO]: Kaiser_Ego fell from a high place
+[04:55:42] [Server thread/INFO]: Kaiser_Ego lost connection: Disconnected
+[04:55:42] [Server thread/INFO]: Kaiser_Ego left the game
+[04:55:57] [User Authenticator #26/INFO]: UUID of player Kaiser_Ego is 058be5ee-25e3-30fe-90b8-c01bd4fd3878
+[04:56:00] [Server thread/INFO]: Kaiser_Ego joined the game
+[04:56:00] [Server thread/INFO]: Kaiser_Ego[/127.243.109.72:39061] logged in with entity id 99042 at ([world]1943.1677996716007, 80.8502865336967, -1702.5353039181834)
+[04:56:02] [Server thread/INFO]: Kaiser_Ego fell from a high place
