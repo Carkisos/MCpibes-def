@@ -290,3 +290,7 @@
 [03:47:53] [Server thread/INFO]: Kaiser_Ego joined the game
 [03:47:53] [Server thread/INFO]: Kaiser_Ego[/127.243.109.72:50003] logged in with entity id 90098 at ([world]1976.699999988079, 62.204007435772745, -1656.3291173023672)
 [03:57:55] [Server thread/INFO]: Kaiser_Ego fell from a high place
+[04:14:28] [Server thread/INFO]: juansel2070 issued server command: /tpa Kaiser_Ego
+[04:14:29] [Server thread/INFO]: Kaiser_Ego issued server command: /tpaccept
+[04:14:41] [Server thread/INFO]: juansel2070 issued server command: /tpa Kaiser_Ego
+[04:14:45] [Server thread/INFO]: Kaiser_Ego issued server command: /tpaccept
